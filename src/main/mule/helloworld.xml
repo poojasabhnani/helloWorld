@@ -9,6 +9,6 @@
 				<fixed-frequency frequency="2" timeUnit="MINUTES"/>
 			</scheduling-strategy>
 		</scheduler>
-		<logger level="INFO" doc:name="Publish to git" doc:id="3a90643e-a4cb-4224-aac7-68bdbbc1d7f6" message="Publish sample code code to git"/>
+		<logger level="INFO" doc:name="Publish to git" doc:id="3a90643e-a4cb-4224-aac7-68bdbbc1d7f6" message="Publish sample code code to git........."/>
 	</flow>
 </mule>
